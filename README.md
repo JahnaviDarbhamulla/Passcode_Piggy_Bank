@@ -20,8 +20,8 @@ In this app you can store all your passwords in a textfile and store it in your 
 
 ### How to use this app :
 1. Download the dist folder from this repository.
-2. Once, you download the file, you will find two text files : personal.txt, data.txt.
-3. personal.txt file stores the password for the Passcode Piggy Bank app so enter the password you want for this app and save it.
+2. Once, you download the file, you will find two text files : personal.txt, piggy_bank.txt.
+3. piggy_bank.txt file stores the password for the Passcode Piggy Bank app so enter the password you want for this app and save it.
 4. data.txt file stores your name and all the passwords you enter.Change your name and save the file.
 5. move the shortcut executable file (passcode_piggy_bank.py) to desktop or wherever you want and run it.
 
@@ -32,7 +32,7 @@ In this app you can store all your passwords in a textfile and store it in your 
 
 ![home](https://user-images.githubusercontent.com/76477365/119934830-10a93b00-bfa4-11eb-94d3-88f06c9bfdea.jpg)
 
-### This is the page where you enter your details for saving the password in your data.txt file.You can also ask Mr.Pig to generate a password for you.
+### This is the page where you enter your details for saving the password in your piggy_bank.txt file.You can also ask Mr.Pig to generate a password for you.
 
 
 
