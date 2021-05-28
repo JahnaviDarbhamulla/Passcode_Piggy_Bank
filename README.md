@@ -28,19 +28,19 @@ In this app you can store all your passwords in a textfile and store it in your 
 
 ### Working:
 
-### This is the home page where you enter the password you stored in your personal.txt file.
+#### This is the home page where you enter the password you stored in your personal.txt file.
 
 
 ![home](https://user-images.githubusercontent.com/76477365/119934830-10a93b00-bfa4-11eb-94d3-88f06c9bfdea.jpg)
 
-### This is the page where you enter your details for saving the password in your piggy_bank.txt file.You can also ask Mr.Pig to generate a password for you.
+#### This is the page where you enter your details for saving the password in your piggy_bank.txt file.You can also ask Mr.Pig to generate a password for you.
 
 
 
 ![pass](https://user-images.githubusercontent.com/76477365/119937886-253c0200-bfa9-11eb-9599-9a5f5bba9dd6.jpg)
 
 
-### Once you add the password to your piggy bank,the details get saved in piggy_bank.txt file and the the feilds are cleared for the nest password to be saved.
+#### Once you add the password to your piggy bank,the details get saved in piggy_bank.txt file and the the feilds are cleared for the nest password to be saved.
 
 
 ![store](https://user-images.githubusercontent.com/76477365/119937896-29681f80-bfa9-11eb-8ad4-a325585ccc99.jpg)
