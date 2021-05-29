@@ -29,15 +29,17 @@ In this app you can store all your passwords in a textfile and store it in your 
 ### Working:
 
 #### This is the home page where you enter the password you stored in your passcode.txt file.
+![home](https://user-images.githubusercontent.com/76477365/120076984-c3bd8580-c0c5-11eb-9090-92771b23b572.jpg)
 
 
 #### The main page of this app displays two options: search your password, add your password to this app.
-
-#### This is the page where you enter your details for saving the password.You can also ask Mr.Pig to generate a password for you.
+![main](https://user-images.githubusercontent.com/76477365/120076932-8bb64280-c0c5-11eb-8bb3-3b62115dd26b.jpg)
+#### This is the page where you enter your details for saving the password. You can also ask Mr.Pig to generate a password for you.
 #### Once you add the password to your piggy bank,the details get saved in a JSON file and the the feilds are cleared for the next password to be saved.
+![add](https://user-images.githubusercontent.com/76477365/120076938-91ac2380-c0c5-11eb-8428-27b1c57b9f3c.jpg)
 
+#### Now, you can search you password whenever you want!
 
-#### now, you can search you password whenever you want!
-
+![search](https://user-images.githubusercontent.com/76477365/120077022-e5b70800-c0c5-11eb-8af2-09eb88881f66.jpg)
 
 
