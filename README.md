@@ -21,29 +21,23 @@ In this app you can store all your passwords in a textfile and store it in your 
 ### How to use this app :
 1. Download the dist folder from this repository.
 2. Save the dist folder in your personal vault.
-3. Once, you download the file, you will find two text files : personal.txt, piggy_bank.txt.
-4. piggy_bank.txt file stores the password for the Passcode Piggy Bank app so enter the password you want for this app and save it.
-5. data.txt file stores your name and all the passwords you enter.Change your name and save the file.
+3. Once, you download the file, you will find two text files : name.txt, passcode.txt.
+4. passcode.txt file stores the password for the Passcode Piggy Bank app so enter the password you want for this app and save it.
+5. name.txt file stores your name.Change your name and save the file.
 6. Move the shortcut executable file (passcode_piggy_bank.py) to desktop or wherever you want and run it.
 
 ### Working:
 
-#### This is the home page where you enter the password you stored in your personal.txt file.
+#### This is the home page where you enter the password you stored in your passcode.txt file.
 
 
-![home](https://user-images.githubusercontent.com/76477365/119934830-10a93b00-bfa4-11eb-94d3-88f06c9bfdea.jpg)
+#### The main page of this app displays two options: search your password, add your password to this app.
 
-#### This is the page where you enter your details for saving the password in your piggy_bank.txt file.You can also ask Mr.Pig to generate a password for you.
-
-
-
-![pass](https://user-images.githubusercontent.com/76477365/119937886-253c0200-bfa9-11eb-9599-9a5f5bba9dd6.jpg)
+#### This is the page where you enter your details for saving the password.You can also ask Mr.Pig to generate a password for you.
+#### Once you add the password to your piggy bank,the details get saved in a JSON file and the the feilds are cleared for the next password to be saved.
 
 
-#### Once you add the password to your piggy bank,the details get saved in piggy_bank.txt file and the the feilds are cleared for the nest password to be saved.
-
-
-![store](https://user-images.githubusercontent.com/76477365/119937896-29681f80-bfa9-11eb-8ad4-a325585ccc99.jpg)
+#### now, you can search you password whenever you want!
 
 
 
