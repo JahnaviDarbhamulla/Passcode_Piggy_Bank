@@ -16,7 +16,7 @@ Now let's be honest, it's not easy to remember and create unique passwords for e
 
 This is where passcode piggy bank comes in handy.
 
-In this app you can store all your passwords in a textfile and store it in your personal vault.Every time you want to create a new password it gets added to the file.This app also helps you generate passwords.
+Passcode Piggy Bank helps you store your passwords and retrieve them whenever u need them. It also helps you generate strong passwords to keep your information secure.
 
 ### How to use this app :
 1. Download the dist folder from this repository.
