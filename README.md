@@ -2,7 +2,7 @@
 ### I created "Password Piggy Bank" app that stores passwords instead of coins!
 
 Recenty I came across this website called "Have I been Pawned ?". (link: https://haveibeenpwned.com/) 
-Here you can find all your passwords that have been compromised . I then realised that people are very bad at keeping their passwords. This is because most of the time the passwords are qwerty, passcode, 12345 and so on .This makes it easier for the hackers to just try out your credentials in a few other apps and see if it works.
+Here you can find all your passwords that have been compromised . This shows that people are very bad at keeping their passwords. This is because most of the time the passwords are qwerty, passcode, 12345 and so on .This makes it easier for the hackers to just try out your credentials in a few other apps and see if it works.
 
 Here are some useful tips I came across for creating strong passwords and keeping your information secure.
 
